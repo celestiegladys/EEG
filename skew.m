@@ -1,0 +1,22 @@
+figure;
+plot(data_epoch{5, 1});
+hold on;
+plot(data_epoch{7, 1});
+plot(data_epoch{9, 1});
+plot(data_epoch{11, 1});
+plot(data_epoch{13, 1});
+plot(data_epoch{15, 1});
+plot(data_epoch{17, 1});
+plot(data_epoch{19, 1});
+plot(data_epoch{27, 1});
+plot(data_epoch{29, 1});
+plot(data_epoch{31, 1});
+plot(data_epoch{33, 1});
+plot(data_epoch{35, 1});
+plot(data_epoch{37, 1});
+plot(data_epoch{39, 1});
+plot(data_epoch{5, 1});
+title('z-axix');
+xlabel('samples');
+ylabel('z-axis_epoch');
+
